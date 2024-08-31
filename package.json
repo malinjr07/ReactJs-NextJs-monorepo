@@ -29,6 +29,7 @@
     "@lottiefiles/dotlottie-react": "^0.8.3",
     "@moralisweb3/next": "^2.27.1",
     "@mui/material": "^5.16.4",
+    "@openzeppelin/contracts": "^5.0.2",
     "@pixi/react": "^7.1.2",
     "@popperjs/core": "^2.11.8",
     "@rainbow-me/rainbowkit": "^2.1.4",
@@ -136,4 +137,3 @@
     "vite": "^5.3.4"
   }
 }
-
